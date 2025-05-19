@@ -1,0 +1,9 @@
+{
+	"name": "compuNuveETL",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50a312ad-59a4-4d9c-962e-1fe7519bd40f",
+		"tenantId": "d5efe30f-b2e1-4fc4-81cf-8dd992be2dce"
+	}
+}
