@@ -5,11 +5,11 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://api.myvisionlink.com/Assets",
+			"url": "https://www.myvisionlink.com/APIService/CATDataTopics/v4%20/feed/GAINE/Diagnostic/0",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Basic",
 			"userName": "API_79876",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDNBRUY1MzA4LUNGOEMtNDc0Mi05NEIwLUFDQ0IzQjhEQjJDRV8xODc0M2NiOC1kZDdlLTQyOTktOTJkOS1mYjBhZWZhNWE5MGYiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDNBRUY1MzA4LUNGOEMtNDc0Mi05NEIwLUFDQ0IzQjhEQjJDRV8zZTIzMTYwOS01YzgxLTRkNDQtYWZlMy1lMjU0NzlhMTBmMWEiDQp9"
 		}
 	}
 }
